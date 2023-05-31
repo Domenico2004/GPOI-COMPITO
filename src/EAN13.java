@@ -16,7 +16,7 @@ public class EAN13 {
     public void setCodice(String c){
         codice = c;
     }
-    
+
     /**
      * 
      * @return il codice EAN
